@@ -1,0 +1,8 @@
+Package: luci-i18n-zerotier-zh-cn
+Version: git-18.303.70714-dd9da51-1
+Depends: libc, luci-app-zerotier
+Source: package/kiddin9/luci-app-zerotier
+Section: luci
+Architecture: all
+Installed-Size: 808
+Description:  Translation for luci-app-zerotier - 中文 (Chinese)

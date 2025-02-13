@@ -1,0 +1,8 @@
+Package: luci-app-zerotier
+Version: git-18.303.70714-dd9da51-1
+Depends: libc, zerotier
+Source: package/kiddin9/luci-app-zerotier
+Section: luci
+Architecture: all
+Installed-Size: 3302
+Description:  LuCI for Zerotier
